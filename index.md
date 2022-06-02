@@ -1,5 +1,5 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to the beautiful flower blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+There is so much to say about flowers, that i dont want to start. 
